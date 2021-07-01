@@ -1,10 +1,10 @@
 const BLOG = {
   title: 'Duan',
-  author: 'Duan xc',
+  author: 'Duan',
   email: 'd593524768@qq.com',
   link: 'https://nobelium.vercel.app',
   description: '保持少年心气.',
-  lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP']
+  lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
