@@ -2,7 +2,7 @@ const BLOG = {
   title: 'Duan',
   author: 'Duan',
   email: 'd593524768@qq.com',
-  link: 'https://nobelium.vercel.app',
+  link: 'https://duan.vercel.app',
   description: '保持少年心气.',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP']
   appearance: 'auto', // ['light', 'dark', 'auto'],
