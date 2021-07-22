@@ -5,7 +5,7 @@ const BLOG = {
   link: 'https://duan.vercel.app',
   description: '保持少年心气.',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP']
-  appearance: 'auto', // ['light', 'dark', 'auto'],
+  appearance: 'light', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '#FFF7EA', // use hex value, don't forget '#' e.g #fffefc
   darkBackground: '#302F3F', // use hex value, don't forget '#'
